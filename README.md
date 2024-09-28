@@ -10,3 +10,6 @@ in January.
 Total Sales for FY 2019-20 were 34M and Total Quantity Sold was 209K Units.
 
 ◦Tools Used: Power BI , SQL
+
+
+![sales powerbi](https://github.com/user-attachments/assets/3596be30-50a1-4c54-9d49-16faf1759b22)
